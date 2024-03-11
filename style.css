@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 1px solid red ;
+    font-family: monospace;
+}
+.headding{
+    margin-top: 30vh;
+    height: 100vh;
+}
+
+h1 {
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+button{
+    color: white;
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    outline: none;
+    margin-top: 50px !important;
+
+}
